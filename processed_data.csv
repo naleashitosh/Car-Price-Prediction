@@ -1,0 +1,893 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,hyundai santro xing,hyundai,2007,80000.0,45000.0,petrol
+1,mahindra jeep cl550,mahindra,2006,425000.0,40.0,diesel
+2,maruti suzuki alto,maruti,2018,404688.5344224037,22000.0,petrol
+3,hyundai grand i10,hyundai,2014,325000.0,28000.0,petrol
+4,ford ecosport titanium,ford,2014,575000.0,36000.0,diesel
+5,ford ecosport titanium,ford,2015,404688.5344224037,59000.0,diesel
+6,ford figo,ford,2012,175000.0,41000.0,diesel
+7,hyundai eon,hyundai,2013,190000.0,25000.0,petrol
+8,ford ecosport ambiente,ford,2016,830000.0,24530.0,diesel
+9,maruti suzuki alto,maruti,2015,250000.0,60000.0,petrol
+10,skoda fabia classic,skoda,2010,182000.0,60000.0,petrol
+11,maruti suzuki stingray,maruti,2015,315000.0,30000.0,petrol
+12,hyundai elite i20,hyundai,2014,415000.0,32000.0,petrol
+13,mahindra scorpio sle,mahindra,2015,320000.0,48660.0,diesel
+14,hyundai santro xing,hyundai,2007,80000.0,45000.0,petrol
+15,mahindra jeep cl550,mahindra,2006,425000.0,40.0,diesel
+16,audi a8,audi,2017,1000000.0,4000.0,petrol
+17,audi q7,audi,2014,500000.0,16934.0,diesel
+18,mahindra scorpio s10,mahindra,2016,350000.0,43000.0,diesel
+19,maruti suzuki alto,maruti,2014,160000.0,35550.0,petrol
+20,mahindra scorpio s10,mahindra,2016,350000.0,43000.0,diesel
+21,mahindra scorpio s10,mahindra,2016,310000.0,39522.0,diesel
+22,maruti suzuki alto,maruti,2015,75000.0,39000.0,petrol
+23,hyundai i20 sportz,hyundai,2012,100000.0,55000.0,petrol
+24,hyundai i20 sportz,hyundai,2012,100000.0,55000.0,petrol
+25,hyundai i20 sportz,hyundai,2012,100000.0,55000.0,petrol
+26,maruti suzuki alto,maruti,2017,190000.0,72000.0,petrol
+27,maruti suzuki vitara,maruti,2016,290000.0,15975.0,diesel
+28,maruti suzuki alto,maruti,2008,95000.0,70000.0,petrol
+29,mahindra bolero di,mahindra,2017,180000.0,23452.0,diesel
+30,maruti suzuki swift,maruti,2014,385000.0,35522.0,diesel
+31,mahindra scorpio s10,mahindra,2015,250000.0,48508.0,diesel
+32,maruti suzuki swift,maruti,2017,180000.0,15487.0,petrol
+33,maruti suzuki wagon,maruti,2013,105000.0,39000.0,petrol
+34,maruti suzuki wagon,maruti,2013,105000.0,39000.0,petrol
+35,toyota innova 2.0,toyota,2012,650000.0,82000.0,diesel
+36,renault lodgy 85,renault,2018,689999.0,20000.0,diesel
+37,skoda yeti ambition,skoda,2012,448000.0,68000.0,diesel
+38,maruti suzuki baleno,maruti,2017,549000.0,32000.0,diesel
+39,renault duster 110,renault,2012,501000.0,38000.0,diesel
+40,renault duster 85,renault,2013,489999.0,27000.0,diesel
+41,honda city 1.5,honda,2011,280000.0,33000.0,petrol
+42,maruti suzuki alto,maruti,2015,250000.0,60000.0,petrol
+43,maruti suzuki dzire,maruti,2013,349999.0,46000.0,diesel
+44,honda amaze,honda,2013,284999.0,46000.0,diesel
+45,honda amaze 1.5,honda,2015,345000.0,36000.0,diesel
+46,honda city,honda,2015,499999.0,55000.0,petrol
+47,datsun redi go,datsun,2017,235000.0,16000.0,petrol
+48,maruti suzuki sx4,maruti,2010,249999.0,36000.0,petrol
+49,mitsubishi pajero sport,mitsubishi,2015,1475000.0,47000.0,diesel
+50,mahindra bolero di,mahindra,2017,180000.0,23452.0,diesel
+51,maruti suzuki swift,maruti,2014,385000.0,35522.0,diesel
+52,mahindra scorpio s10,mahindra,2015,250000.0,48508.0,diesel
+53,maruti suzuki swift,maruti,2017,180000.0,15487.0,petrol
+54,maruti suzuki wagon,maruti,2013,105000.0,39000.0,petrol
+55,maruti suzuki wagon,maruti,2013,105000.0,39000.0,petrol
+56,mahindra scorpio s10,mahindra,2015,395000.0,35000.0,diesel
+57,maruti suzuki swift,maruti,2017,220000.0,30874.0,petrol
+58,honda city zx,honda,2017,170000.0,15000.0,diesel
+59,maruti suzuki wagon,maruti,2013,85000.0,29685.0,petrol
+60,ford figo,ford,2012,175000.0,41000.0,diesel
+61,hyundai eon,hyundai,2013,190000.0,25000.0,petrol
+62,tata indigo ecs,tata,2017,200000.0,130000.0,diesel
+63,ford ecosport ambiente,ford,2016,830000.0,24530.0,diesel
+64,tata indigo ecs,tata,2017,200000.0,130000.0,diesel
+65,mahindra scorpio sle,mahindra,2012,570000.0,19000.0,diesel
+66,volkswagen polo highline,volkswagen,2014,315000.0,60000.0,petrol
+67,skoda fabia classic,skoda,2010,182000.0,60000.0,petrol
+68,maruti suzuki stingray,maruti,2015,315000.0,30000.0,petrol
+69,i want to,i,2017,404688.5344224037,46010.55011933174,petrol
+70,chevrolet spark ls,chevrolet,2010,110000.0,41000.0,petrol
+71,renault duster 110ps,renault,2012,501000.0,35000.0,diesel
+72,honda city,honda,2015,448999.0,54000.0,petrol
+73,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+74,datsun redi go,datsun,2017,235000.0,16000.0,petrol
+75,skoda fabia 1.2l,skoda,2011,159500.0,38200.0,diesel
+76,honda amaze,honda,2015,344999.0,22000.0,petrol
+77,honda amaze,honda,2015,344999.0,22000.0,petrol
+78,renault duster,renault,2014,449999.0,50000.0,diesel
+79,mini cooper s,mini,2013,1891111.0,13500.0,petrol
+80,mahindra scorpio s4,mahindra,2015,865000.0,30000.0,diesel
+81,mahindra scorpio vlx,mahindra,2014,699000.0,50000.0,diesel
+82,mahindra quanto c8,mahindra,2013,375000.0,20000.0,diesel
+83,ford ecosport,ford,2017,489999.0,39000.0,petrol
+84,honda brio,honda,2012,224999.0,30000.0,petrol
+85,i want to,i,2017,404688.5344224037,46010.55011933174,petrol
+86,volkswagen vento highline,volkswagen,2019,1200000.0,3600.0,diesel
+87,hyundai i20 magna,hyundai,2009,195000.0,32000.0,petrol
+88,toyota corolla altis,toyota,2010,351000.0,38000.0,diesel
+89,hyundai verna transform,hyundai,2008,160000.0,45000.0,petrol
+90,toyota corolla altis,toyota,2009,240000.0,35000.0,petrol
+91,honda city 1.5,honda,2005,90000.0,50000.0,petrol
+92,hyundai elite i20,hyundai,2014,415000.0,32000.0,petrol
+93,skoda fabia 1.2l,skoda,2011,155000.0,45863.0,diesel
+94,bmw 3 series,bmw,2011,600000.0,60500.0,petrol
+95,maruti suzuki a,maruti,2011,189500.0,12500.0,petrol
+96,toyota etios gd,toyota,2013,350000.0,60000.0,diesel
+97,ford figo diesel,ford,2012,210000.0,35000.0,diesel
+98,maruti suzuki swift,maruti,2014,390000.0,35000.0,petrol
+99,chevrolet beat lt,chevrolet,2012,135000.0,45000.0,diesel
+100,bmw 7 series,bmw,2009,1600000.0,35000.0,petrol
+101,mahindra xuv500 w8,mahindra,2013,701000.0,38000.0,diesel
+102,hyundai i10 magna,hyundai,2014,265000.0,18000.0,petrol
+103,hyundai verna fluidic,hyundai,2015,525000.0,35000.0,diesel
+104,maruti suzuki swift,maruti,2013,372000.0,13349.0,petrol
+105,maruti suzuki ertiga,maruti,2016,635000.0,29000.0,petrol
+106,ford ecosport titanium,ford,2014,550000.0,44000.0,diesel
+107,maruti suzuki ertiga,maruti,2016,575000.0,29000.0,petrol
+108,maruti suzuki ertiga,maruti,2013,485000.0,42000.0,diesel
+109,maruti suzuki alto,maruti,2012,155000.0,14000.0,petrol
+110,hyundai grand i10,hyundai,2014,345000.0,49000.0,diesel
+111,honda amaze 1.2,honda,2014,325000.0,42000.0,petrol
+112,hyundai i20 asta,hyundai,2012,329500.0,36200.0,diesel
+113,ford figo diesel,ford,2014,195000.0,50000.0,diesel
+114,maruti suzuki eeco,maruti,2015,251111.0,55000.0,petrol
+115,maruti suzuki ertiga,maruti,2014,569999.0,45000.0,petrol
+116,maruti suzuki esteem,maruti,2007,69999.0,51000.0,petrol
+117,maruti suzuki ritz,maruti,2014,299999.0,19000.0,petrol
+118,maruti suzuki dzire,maruti,2009,220000.0,46000.0,petrol
+119,maruti suzuki ritz,maruti,2013,399999.0,33000.0,diesel
+120,maruti suzuki swift,maruti,2013,372000.0,13349.0,petrol
+121,maruti suzuki dzire,maruti,2015,450000.0,104000.0,diesel
+122,toyota etios liva,toyota,2014,270000.0,55000.0,petrol
+123,hyundai i20 sportz,hyundai,2011,350000.0,33333.0,diesel
+124,chevrolet spark,chevrolet,2012,158400.0,33600.0,petrol
+125,maruti suzuki alto,maruti,2017,350000.0,5600.0,petrol
+126,nissan micra xv,nissan,2011,179000.0,41000.0,petrol
+127,maruti suzuki swift,maruti,2007,125000.0,70000.0,petrol
+128,maruti suzuki alto,maruti,2018,200000.0,7500.0,petrol
+129,honda amaze 1.5,honda,2013,299000.0,45000.0,diesel
+130,maruti suzuki alto,maruti,2015,220000.0,38000.0,petrol
+131,chevrolet beat,chevrolet,2015,150000.0,30000.0,petrol
+132,toyota corolla,toyota,2009,275000.0,26000.0,petrol
+133,honda city 1.5,honda,2010,285000.0,35000.0,petrol
+134,ford ecosport trend,ford,2016,830000.0,24330.0,diesel
+135,hyundai i20 asta,hyundai,2009,210000.0,65480.0,petrol
+136,maruti suzuki swift,maruti,2013,340000.0,41000.0,petrol
+137,tata indica v2,tata,2006,90000.0,20000.0,petrol
+138,maruti suzuki alto,maruti,2018,404688.5344224037,28028.0,petrol
+139,hindustan motors ambassador,hindustan,2000,70000.0,46010.5501193318,diesel
+140,toyota corolla altis,toyota,2010,289999.0,70000.0,petrol
+141,toyota corolla altis,toyota,2012,349999.0,59000.0,petrol
+142,toyota innova 2.5,toyota,2012,849999.0,99000.0,diesel
+143,volkswagen jetta highline,volkswagen,2014,749999.0,46000.0,diesel
+144,volkswagen polo comfortline,volkswagen,2015,399999.0,2800.0,petrol
+145,volkswagen polo,volkswagen,2014,274999.0,32000.0,petrol
+146,mahindra scorpio,mahindra,2015,984999.0,22000.0,diesel
+147,renault duster,renault,2014,449999.0,50000.0,diesel
+148,honda amaze,honda,2015,344999.0,22000.0,petrol
+149,nissan sunny,nissan,2012,224999.0,45000.0,petrol
+150,hyundai elite i20,hyundai,2018,599999.0,21000.0,petrol
+151,renault kwid,renault,2016,244999.0,11000.0,petrol
+152,renault duster,renault,2013,399999.0,41000.0,diesel
+153,ford ecosport,ford,2017,489999.0,39000.0,petrol
+154,renault duster,renault,2014,474999.0,50000.0,diesel
+155,mahindra scorpio vlx,mahindra,2011,499999.0,66000.0,diesel
+156,maruti suzuki alto,maruti,2018,310000.0,3000.0,petrol
+157,chevrolet spark lt,chevrolet,2010,85000.0,45000.0,petrol
+158,datsun redi go,datsun,2016,245000.0,7000.0,petrol
+159,maruti suzuki swift,maruti,2010,189500.0,38500.0,diesel
+160,fiat punto emotion,fiat,2012,169500.0,37200.0,diesel
+161,maruti suzuki swift,maruti,2010,159500.0,43200.0,diesel
+162,toyota etios gd,toyota,2013,275000.0,24800.0,petrol
+163,hyundai i20 sportz,hyundai,2014,370000.0,60000.0,diesel
+164,hyundai i10 sportz,hyundai,2010,168000.0,45872.0,petrol
+165,chevrolet beat lt,chevrolet,2011,150000.0,40000.0,diesel
+166,chevrolet beat ls,chevrolet,2011,145000.0,45000.0,diesel
+167,chevrolet beat lt,chevrolet,2012,98500.0,38000.0,diesel
+168,mahindra scorpio vlx,mahindra,2014,699000.0,50000.0,diesel
+169,tata indigo cs,tata,2011,85000.0,11400.0,diesel
+170,toyota corolla altis,toyota,2015,575000.0,42000.0,petrol
+171,honda city 1.5,honda,2014,549000.0,39000.0,petrol
+172,maruti suzuki swift,maruti,2011,209000.0,47000.0,diesel
+173,hyundai eon era,hyundai,2013,185000.0,27000.0,petrol
+174,mahindra scorpio s10,mahindra,2015,900000.0,97200.0,diesel
+175,mahindra xuv500,mahindra,2014,699999.0,52000.0,diesel
+176,honda brio,honda,2012,224999.0,30000.0,petrol
+177,ford fiesta,ford,2011,274999.0,55000.0,diesel
+178,honda amaze,honda,2013,284999.0,46000.0,diesel
+179,honda city,honda,2015,599999.0,30000.0,diesel
+180,maruti suzuki wagon,maruti,2012,199999.0,44000.0,petrol
+181,honda city,honda,2014,544999.0,45000.0,diesel
+182,hyundai i20,hyundai,2009,199000.0,31000.0,petrol
+183,tata indigo ecs,tata,2016,320000.0,175430.0,diesel
+184,hyundai fluidic verna,hyundai,2015,540000.0,38000.0,diesel
+185,"commercial , dzire",commercial,2015,404688.5344224037,46010.55011933174,petrol
+186,mahindra quanto c8,mahindra,2013,340000.0,37000.0,diesel
+187,fiat petra elx,fiat,2008,75000.0,65000.0,petrol
+188,skoda fabia 1.2l,skoda,2011,159500.0,38200.0,diesel
+189,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+190,hyundai santro xing,hyundai,2005,49000.0,7500.0,petrol
+191,maruti suzuki ciaz,maruti,2016,700000.0,3350.0,petrol
+192,maruti suzuki zen,maruti,2000,55000.0,60000.0,petrol
+193,honda city,honda,2015,448999.0,54000.0,petrol
+194,hyundai creta 1.6,hyundai,2017,895000.0,32000.0,petrol
+195,tata indigo ecs,tata,2015,150000.0,46010.55011933174,petrol
+196,mahindra scorpio slx,mahindra,2007,355000.0,75000.0,diesel
+197,mahindra scorpio sle,mahindra,2012,565000.0,62000.0,diesel
+198,toyota innova 2.5,toyota,2006,365000.0,73000.0,diesel
+199,maruti suzuki alto,maruti,2011,145000.0,41000.0,petrol
+200,maruti suzuki wagon,maruti,2011,210000.0,35000.0,petrol
+201,tata nano cx,tata,2013,40000.0,2200.0,petrol
+202,maruti suzuki alto,maruti,2013,125000.0,39000.0,petrol
+203,maruti suzuki wagon,maruti,2009,135000.0,45000.0,petrol
+204,maruti suzuki swift,maruti,2006,135000.0,45000.0,petrol
+205,tata sumo victa,tata,2012,285000.0,65000.0,diesel
+206,maruti suzuki desi,maruti,2015,400000.0,46010.55011933174,petrol
+207,maruti suzuki wagon,maruti,2010,145000.0,54870.0,petrol
+208,maruti suzuki alto,maruti,2010,135000.0,34580.0,petrol
+209,volkswagen passat diesel,volkswagen,2009,450000.0,97000.0,diesel
+210,renault scala rxl,renault,2015,375000.0,25000.0,diesel
+211,mahindra quanto c8,mahindra,2013,375000.0,20000.0,diesel
+212,hyundai grand i10,hyundai,2014,365000.0,20000.0,petrol
+213,hyundai i20 active,hyundai,2015,500000.0,18000.0,petrol
+214,mahindra xylo e4,mahindra,2012,400000.0,35000.0,diesel
+215,mahindra jeep mm,mahindra,2019,390000.0,60.0,diesel
+216,renault duster 110ps,renault,2012,501000.0,35000.0,diesel
+217,mahindra bolero sle,mahindra,2013,330000.0,80200.0,diesel
+218,force motors force,force,2015,580000.0,3200.0,diesel
+219,maruti suzuki sx4,maruti,2012,265000.0,46000.0,diesel
+220,mahindra jeep cl550,mahindra,2019,379000.0,0.0,diesel
+221,maruti suzuki alto,maruti,2015,219000.0,5000.0,petrol
+222,mahindra jeep cl550,mahindra,2018,385000.0,588.0,diesel
+223,toyota etios,toyota,2011,275000.0,36000.0,diesel
+224,volkswagen polo,volkswagen,2015,330000.0,38000.0,diesel
+225,honda city zx,honda,2008,110000.0,45000.0,petrol
+226,maruti suzuki wagon,maruti,2006,80000.0,71200.0,petrol
+227,honda city vx,honda,2016,519000.0,52000.0,diesel
+228,mahindra thar crde,mahindra,2016,730000.0,29000.0,diesel
+229,mitsubishi pajero sport,mitsubishi,2015,1475000.0,47000.0,diesel
+230,audi a4 1.8,audi,2009,699000.0,47000.0,petrol
+231,mercedes benz gla,mercedes,2015,2000000.0,20000.0,diesel
+232,land rover freelander,land,2015,2100000.0,30000.0,diesel
+233,renault kwid rxt,renault,2017,340000.0,5000.0,petrol
+234,tata aria pleasure,tata,2014,390000.0,35000.0,diesel
+235,mercedes benz b,mercedes,2014,1400000.0,31000.0,petrol
+236,datsun go t,datsun,2016,245000.0,7000.0,petrol
+237,tata indigo ecs,tata,2016,320000.0,175430.0,diesel
+238,tata indigo ecs,tata,2016,320000.0,175400.0,diesel
+239,honda jazz vx,honda,2016,450000.0,41000.0,petrol
+240,honda amaze 1.2,honda,2014,311000.0,33000.0,petrol
+241,honda amaze,honda,2013,284999.0,46000.0,diesel
+242,honda city,honda,2012,399999.0,45000.0,petrol
+243,honda city,honda,2015,599999.0,39000.0,diesel
+244,honda amaze,honda,2015,344999.0,22000.0,petrol
+245,audi a4 1.8,audi,2009,699000.0,47000.0,petrol
+246,force motors force,force,2015,580000.0,3200.0,diesel
+247,mahindra scorpio s4,mahindra,2015,855000.0,30000.0,diesel
+248,hyundai i20 active,hyundai,2015,535000.0,37000.0,diesel
+249,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+250,maruti suzuki ciaz,maruti,2017,699000.0,14000.0,petrol
+251,chevrolet tavera neo,chevrolet,2013,375000.0,55000.0,diesel
+252,honda amaze,honda,2013,284999.0,46000.0,diesel
+253,hyundai eon sportz,hyundai,2012,178000.0,30000.0,petrol
+254,tata sumo gold,tata,2013,300000.0,50000.0,diesel
+255,maruti suzuki wagon,maruti,2003,90000.0,45000.0,petrol
+256,maruti suzuki esteem,maruti,2006,95000.0,45000.0,petrol
+257,maruti suzuki eeco,maruti,2015,255000.0,9300.0,petrol
+258,chevrolet enjoy 1.4,chevrolet,2013,245000.0,55000.0,diesel
+259,hyundai i20 asta,hyundai,2012,329500.0,36200.0,diesel
+260,ford figo diesel,ford,2014,195000.0,50000.0,diesel
+261,maruti suzuki eeco,maruti,2015,251111.0,55000.0,petrol
+262,maruti suzuki ertiga,maruti,2014,569999.0,45000.0,petrol
+263,maruti suzuki esteem,maruti,2007,69999.0,51000.0,petrol
+264,maruti suzuki ritz,maruti,2014,299999.0,19000.0,petrol
+265,maruti suzuki dzire,maruti,2009,220000.0,46000.0,petrol
+266,maruti suzuki ritz,maruti,2013,399999.0,33000.0,diesel
+267,maruti suzuki sx4,maruti,2010,249999.0,36000.0,petrol
+268,maruti suzuki wagon,maruti,2015,289999.0,22000.0,petrol
+269,mini cooper s,mini,2013,1891111.0,13500.0,petrol
+270,nissan terrano xl,nissan,2015,499999.0,60000.0,diesel
+271,renault duster 85,renault,2013,489999.0,27000.0,diesel
+272,renault duster 85,renault,2014,489999.0,59000.0,diesel
+273,renault duster 85,renault,2015,549999.0,19000.0,diesel
+274,maruti suzuki dzire,maruti,2013,380000.0,30000.0,petrol
+275,renault kwid rxt,renault,2018,325000.0,15000.0,petrol
+276,maruti suzuki maruti,maruti,2003,57000.0,56758.0,petrol
+277,renault kwid 1.0,renault,2018,349999.0,10000.0,petrol
+278,renault lodgy 85,renault,2018,689999.0,20000.0,diesel
+279,renault scala rxl,renault,2014,349999.0,49000.0,diesel
+280,hyundai grand i10,hyundai,2014,410000.0,41000.0,petrol
+281,maruti suzuki swift,maruti,2011,225000.0,45000.0,petrol
+282,chevrolet beat ls,chevrolet,2010,120000.0,43000.0,petrol
+283,tata indigo ecs,tata,2016,320000.0,175430.0,diesel
+284,hyundai santro xing,hyundai,2000,59000.0,56450.0,petrol
+285,hyundai fluidic verna,hyundai,2015,540000.0,38000.0,diesel
+286,"commercial , dzire",commercial,2015,404688.5344224037,46010.55011933174,petrol
+287,chevrolet beat ls,chevrolet,2010,80000.0,56000.0,petrol
+288,mahindra quanto c8,mahindra,2013,340000.0,37000.0,diesel
+289,fiat petra elx,fiat,2008,75000.0,65000.0,petrol
+290,chevrolet beat ls,chevrolet,2015,220000.0,32700.0,petrol
+291,skoda fabia 1.2l,skoda,2011,159500.0,38200.0,diesel
+292,ford ecosport titanium,ford,2016,599000.0,30000.0,diesel
+293,hyundai accent glx,hyundai,2006,80000.0,56000.0,petrol
+294,yama,yamaha,2015,55000.0,46010.55011933174,petrol
+295,maruti suzuki swift,maruti,2010,404688.5344224037,52000.0,diesel
+296,mahindra tuv300 t4,mahindra,2016,675000.0,9000.0,diesel
+297,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+298,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+299,tata indica v2,tata,2008,150000.0,11000.0,petrol
+300,mini cooper s,mini,2013,1891111.0,13000.0,petrol
+301,tata indigo cs,tata,2009,72500.0,46000.0,diesel
+302,maruti suzuki swift,maruti,2019,610000.0,73.0,petrol
+303,mahindra scorpio vlx,mahindra,2004,230000.0,160000.0,diesel
+304,tata indica ev2,tata,2017,404688.5344224037,84000.0,diesel
+305,honda accord,honda,2009,175000.0,58559.0,petrol
+306,mahindra scorpio s4,mahindra,2015,855000.0,30000.0,diesel
+307,chevrolet tavera neo,chevrolet,2013,375000.0,55000.0,diesel
+308,ford ecosport titanium,ford,2014,520000.0,57000.0,diesel
+309,maruti suzuki ertiga,maruti,2015,524999.0,50000.0,diesel
+310,honda amaze,honda,2014,299999.0,37000.0,petrol
+311,maruti suzuki dzire,maruti,2012,299999.0,40000.0,petrol
+312,honda city,honda,2011,284999.0,55000.0,petrol
+313,mahindra scorpio 2.6,mahindra,2007,220000.0,170000.0,diesel
+314,maruti suzuki dzire,maruti,2014,424999.0,55000.0,diesel
+315,honda city,honda,2015,644999.0,39000.0,petrol
+316,honda mobilio,honda,2014,399999.0,44000.0,petrol
+317,toyota corolla altis,toyota,2009,199999.0,65000.0,petrol
+318,honda city,honda,2014,584999.0,39000.0,petrol
+319,skoda laura,skoda,2012,349999.0,44000.0,diesel
+320,renault duster,renault,2015,449999.0,49000.0,diesel
+321,maruti suzuki ertiga,maruti,2018,799999.0,9000.0,diesel
+322,maruti suzuki dzire,maruti,2015,444999.0,45000.0,diesel
+323,mahindra xuv500,mahindra,2014,649999.0,47000.0,diesel
+324,hyundai verna fluidic,hyundai,2012,444999.0,40000.0,diesel
+325,maruti suzuki vitara,maruti,2016,689999.0,29000.0,diesel
+326,maruti suzuki wagon,maruti,2016,344999.0,15000.0,petrol
+327,mahindra scorpio,mahindra,2015,944999.0,45000.0,diesel
+328,honda amaze,honda,2014,274999.0,35000.0,petrol
+329,mahindra xuv500,mahindra,2013,689999.0,80000.0,diesel
+330,mahindra scorpio,mahindra,2013,574999.0,68000.0,diesel
+331,skoda laura,skoda,2013,374999.0,50000.0,diesel
+332,volkswagen polo,volkswagen,2010,199999.0,60000.0,diesel
+333,hyundai elite i20,hyundai,2016,549999.0,9000.0,petrol
+334,tata manza aura,tata,2012,130000.0,72000.0,diesel
+335,chevrolet sail uva,chevrolet,2013,210000.0,60000.0,petrol
+336,renault duster 110,renault,2012,501000.0,38000.0,diesel
+337,hyundai verna fluidic,hyundai,2013,401000.0,45000.0,diesel
+338,audi a4 2.0,audi,2012,1350000.0,40000.0,diesel
+339,hyundai elantra sx,hyundai,2013,600000.0,20000.0,petrol
+340,mahindra scorpio vlx,mahindra,2013,610000.0,35000.0,diesel
+341,mahindra kuv100 k8,mahindra,2016,400000.0,20000.0,diesel
+342,renault scala rxl,renault,2015,375000.0,25000.0,diesel
+343,mahindra quanto c8,mahindra,2013,375000.0,20000.0,diesel
+344,hyundai grand i10,hyundai,2014,365000.0,20000.0,petrol
+345,hyundai i20 active,hyundai,2015,500000.0,18000.0,petrol
+346,mahindra xylo e4,mahindra,2012,400000.0,35000.0,diesel
+347,hyundai grand i10,hyundai,2017,524999.0,6821.0,petrol
+348,hyundai i20,hyundai,2014,449999.0,23000.0,petrol
+349,hyundai eon,hyundai,2014,174999.0,14000.0,petrol
+350,hyundai i10,hyundai,2012,244999.0,38000.0,petrol
+351,hyundai i20 active,hyundai,2015,574999.0,35000.0,diesel
+352,datsun redi go,datsun,2017,244999.0,22000.0,petrol
+353,toyota etios liva,toyota,2011,239999.0,41000.0,petrol
+354,hyundai accent,hyundai,2010,99999.0,45000.0,petrol
+355,hyundai verna,hyundai,2014,489999.0,44000.0,diesel
+356,maruti suzuki swift,maruti,2013,324999.0,45000.0,diesel
+357,toyota fortuner,toyota,2011,1074999.0,52000.0,diesel
+358,hyundai i10 sportz,hyundai,2012,230000.0,34000.0,petrol
+359,mahindra bolero power,mahindra,2018,699000.0,1800.0,diesel
+360,selling car ta,selling,2015,404688.5344224037,46010.55011933174,petrol
+361,mahindra xuv500,mahindra,2015,1000000.0,15000.0,diesel
+362,honda city 1.5,honda,2010,240000.0,46010.5501193318,petrol
+363,chevrolet spark lt,chevrolet,2009,110000.0,44000.0,petrol
+364,mahindra jeep mm,mahindra,2019,390000.0,60.0,diesel
+365,renault duster 110ps,renault,2012,501000.0,35000.0,diesel
+366,mahindra xuv500,mahindra,2016,1130000.0,72000.0,diesel
+367,tata indigo ecs,tata,2014,250000.0,40000.0,diesel
+368,tata zest 90,tata,2015,404688.5344224037,46010.55011933174,petrol
+369,mahindra bolero sle,mahindra,2013,330000.0,80200.0,diesel
+370,force motors force,force,2015,580000.0,3200.0,diesel
+371,skoda rapid elegance,skoda,2013,340000.0,48000.0,diesel
+372,tata vista quadrajet,tata,2011,120000.0,90000.0,diesel
+373,maruti suzuki alto,maruti,2015,265000.0,12000.0,petrol
+374,maruti suzuki sx4,maruti,2012,265000.0,46000.0,diesel
+375,maruti suzuki zen,maruti,2003,85000.0,69900.0,petrol
+376,mahindra jeep cl550,mahindra,2019,379000.0,0.0,diesel
+377,hyundai i10 magna,hyundai,2011,175000.0,45000.0,petrol
+378,maruti suzuki alto,maruti,2015,219000.0,5000.0,petrol
+379,maruti suzuki swift,maruti,2016,350000.0,166000.0,diesel
+380,honda city zx,honda,2008,149000.0,42000.0,petrol
+381,mahindra jeep cl550,mahindra,2018,385000.0,588.0,diesel
+382,mahindra jeep mm,mahindra,2006,425000.0,122.0,diesel
+383,chevrolet beat diesel,chevrolet,2017,150000.0,62000.0,diesel
+384,honda city 1.5,honda,2010,225000.0,70000.0,petrol
+385,maruti suzuki swift,maruti,2015,300000.0,46010.55011933174,petrol
+386,hyundai verna 1.4,hyundai,2014,375000.0,36000.0,petrol
+387,toyota innova 2.5,toyota,2012,770000.0,0.0,diesel
+388,maruti suzuki alto,maruti,2018,404688.5344224037,24000.0,petrol
+389,maruti suzuki maruti,maruti,1995,30000.0,55000.0,petrol
+390,toyota etios,toyota,2011,275000.0,36000.0,diesel
+391,volkswagen polo,volkswagen,2015,330000.0,38000.0,diesel
+392,maruti suzuki swift,maruti,2014,335000.0,55000.0,diesel
+393,hyundai elite i20,hyundai,2015,450000.0,20000.0,diesel
+394,maruti suzuki swift,maruti,2012,225000.0,40000.0,petrol
+395,maruti suzuki swift,maruti,2015,300000.0,46010.55011933174,petrol
+396,maruti suzuki versa,maruti,2004,80000.0,50000.0,petrol
+397,tata indigo lx,tata,2016,130000.0,104000.0,diesel
+398,volkswagen vento konekt,volkswagen,2011,245000.0,65000.0,diesel
+399,mercedes benz c,mercedes,2002,399000.0,41000.0,petrol
+400,maruti suzuki ertiga,maruti,2013,450000.0,90000.0,diesel
+401,urje,urjent,2015,180000.0,46010.55011933174,petrol
+402,honda city,honda,2000,65000.0,80000.0,petrol
+403,hyundai santro xing,hyundai,2006,75000.0,46000.0,petrol
+404,maruti suzuki omni,maruti,2001,70000.0,70000.0,petrol
+405,hyundai sonata transform,hyundai,2017,190000.0,36469.0,diesel
+406,hyundai elite i20,hyundai,2018,600000.0,7800.0,petrol
+407,volkswagen vento konekt,volkswagen,2011,245000.0,65000.0,diesel
+408,maruti suzuki alto,maruti,2017,240000.0,60000.0,petrol
+409,maruti suzuki alto,maruti,2011,155000.0,32000.0,petrol
+410,honda jazz s,honda,2009,169999.0,24695.0,petrol
+411,hyundai grand i10,hyundai,2017,450000.0,15141.0,petrol
+412,maruti suzuki zen,maruti,2001,40000.0,40000.0,petrol
+413,mahindra scorpio w,mahindra,2012,165000.0,65000.0,diesel
+414,swift dzire tour,swift,2015,370000.0,46010.55011933174,petrol
+415,maruti suzuki alto,maruti,2014,270000.0,22000.0,petrol
+416,hyundai grand i10,hyundai,2016,280000.0,59910.0,diesel
+417,mahindra xuv500 w8,mahindra,2012,560000.0,100000.0,diesel
+418,hyundai creta 1.6,hyundai,2016,950000.0,25000.0,petrol
+419,hyundai i20 magna,hyundai,2013,310000.0,35000.0,petrol
+420,renault duster 85,renault,2015,715000.0,65000.0,diesel
+421,hyundai grand i10,hyundai,2014,340000.0,35000.0,petrol
+422,honda brio v,honda,2012,235000.0,33000.0,petrol
+423,mahindra tuv300 t4,mahindra,2017,610000.0,68000.0,diesel
+424,chevrolet spark ls,chevrolet,2010,95000.0,23000.0,petrol
+425,mahindra tuv300 t8,mahindra,2018,1000000.0,4500.0,diesel
+426,maruti suzuki swift,maruti,2015,220000.0,129000.0,diesel
+427,nissan x trail,nissan,2019,1200000.0,300.0,diesel
+428,maruti suzuki alto,maruti,2015,230000.0,5000.0,petrol
+429,ford ikon 1.3,ford,2001,45000.0,65000.0,petrol
+430,toyota fortuner 3.0,toyota,2010,940000.0,131000.0,diesel
+431,tata manza elan,tata,2010,155555.0,111111.0,petrol
+432,tata zest x,tata,2015,320000.0,46010.55011933174,petrol
+433,mahindra xyl,mahindra,2015,350000.0,46010.55011933174,petrol
+434,mercedes benz a,mercedes,2013,1500000.0,14000.0,petrol
+435,chevrolet beat ls,chevrolet,2016,210000.0,22000.0,diesel
+436,ford ecosport trend,ford,2013,495000.0,38000.0,diesel
+437,tata indigo ls,tata,2016,125000.0,70000.0,diesel
+438,hyundai i20 magna,hyundai,2010,195000.0,36000.0,petrol
+439,volkswagen vento highline,volkswagen,2015,550000.0,34000.0,diesel
+440,renault kwid rxt,renault,2015,270000.0,43000.0,petrol
+441,used commercial maruti,used,2015,150000.0,46010.55011933174,petrol
+442,ford ecosport titanium,ford,2014,500000.0,40000.0,diesel
+443,honda amaze 1.5,honda,2016,240000.0,160000.0,diesel
+444,hyundai verna 1.6,hyundai,2017,800000.0,12000.0,petrol
+445,bmw 5 series,bmw,2011,1299000.0,49000.0,diesel
+446,skoda superb 1.8,skoda,2011,530000.0,68000.0,petrol
+447,audi q3 2.0,audi,2013,1499000.0,37000.0,diesel
+448,mahindra bolero di,mahindra,2012,220000.0,59466.0,diesel
+449,maruti suzuki zen,maruti,2011,404688.5344224037,16000.0,petrol
+450,mahindra scorpio s10,mahindra,2015,900000.0,97200.0,diesel
+451,ford figo duratorq,ford,2012,250000.0,99000.0,diesel
+452,maruti suzuki wagon,maruti,2018,395000.0,25500.0,petrol
+453,mahindra logan diesel,mahindra,2009,130000.0,66000.0,petrol
+454,tata nano genx,tata,2010,32000.0,44005.0,petrol
+455,mahindra tuv300 t4,mahindra,2016,540000.0,35000.0,diesel
+456,mahindra tuv300 t4,mahindra,2016,540000.0,35000.0,diesel
+457,hyundai elite i20,hyundai,2015,405000.0,28000.0,petrol
+458,hyundai elite i20,hyundai,2015,400000.0,30000.0,petrol
+459,honda city sv,honda,2017,760000.0,4000.0,petrol
+460,maruti suzuki baleno,maruti,2016,500000.0,28000.0,petrol
+461,ford figo petrol,ford,2011,175000.0,75000.0,petrol
+462,mahindra scorpio s10,mahindra,2015,900000.0,97200.0,diesel
+463,honda city,honda,2017,750000.0,3000.0,petrol
+464,hyundai elite i20,hyundai,2015,419000.0,20000.0,petrol
+465,maruti suzuki versa,maruti,2004,90000.0,50000.0,petrol
+466,hyundai eon era,hyundai,2018,140000.0,2110.0,petrol
+467,mitsubishi pajero sport,mitsubishi,2015,1540000.0,43222.0,petrol
+468,hyundai i10 magna,hyundai,2008,275000.0,100200.0,petrol
+469,toyota corolla h2,toyota,2003,150000.0,100000.0,petrol
+470,maruti suzuki swift,maruti,2011,230000.0,65.0,petrol
+471,tata indigo cs,tata,2015,123000.0,100000.0,diesel
+472,mahindra scorpio s10,mahindra,2015,900000.0,97200.0,diesel
+473,mahindra scorpio s10,mahindra,2015,900000.0,97200.0,diesel
+474,hyundai xcent base,hyundai,2016,300000.0,140000.0,diesel
+475,honda city,honda,2015,499999.0,55000.0,petrol
+476,hyundai accent executive,hyundai,2009,165000.0,48000.0,petrol
+477,maruti suzuki baleno,maruti,2016,498000.0,22000.0,petrol
+478,tata zest xe,tata,2018,480000.0,103553.0,diesel
+479,maruti suzuki dzire,maruti,2017,488000.0,80000.0,diesel
+480,tata sumo gold,tata,2014,250000.0,99000.0,diesel
+481,toyota corolla altis,toyota,2010,220000.0,58000.0,petrol
+482,maruti suzuki eeco,maruti,2013,290000.0,70000.0,lpg
+483,toyota fortuner 3.0,toyota,2015,1525000.0,120000.0,diesel
+484,mahindra xuv500 w6,mahindra,2013,548900.0,49800.0,diesel
+485,tata tigor revotron,tata,2019,650000.0,100.0,diesel
+486,maruti suzuki 800,maruti,2001,55000.0,81876.0,petrol
+487,maruti suzuki ertiga,maruti,2015,550000.0,75000.0,petrol
+488,maruti suzuki versa,maruti,2004,90000.0,50000.0,petrol
+489,honda mobilio s,honda,2014,399000.0,44000.0,diesel
+490,maruti suzuki ertiga,maruti,2016,730000.0,55000.0,diesel
+491,maruti suzuki vitara,maruti,2017,725000.0,36000.0,diesel
+492,hyundai verna 1.6,hyundai,2016,195000.0,56000.0,diesel
+493,maruti suzuki swift,maruti,2007,130000.0,62000.0,petrol
+494,toyota fortuner 3.0,toyota,2015,1525000.0,120000.0,diesel
+495,maruti suzuki omni,maruti,2014,190000.0,6020.0,petrol
+496,honda amaze,honda,2013,250000.0,55700.0,diesel
+497,tata indica,tata,2005,80000.0,42000.0,petrol
+498,hyundai santro xing,hyundai,2003,120000.0,50000.0,petrol
+499,maruti suzuki zen,maruti,2010,149000.0,35000.0,petrol
+500,maruti suzuki wagon,maruti,2014,250000.0,18500.0,petrol
+501,maruti suzuki wagon,maruti,2007,120000.0,7000.0,petrol
+502,honda brio vx,honda,2017,450000.0,11000.0,petrol
+503,hyundai xcent base,hyundai,2015,404688.5344224037,180000.0,diesel
+504,maruti suzuki zen,maruti,2003,99999.0,53000.0,petrol
+505,maruti suzuki zen,maruti,2008,135000.0,23000.0,petrol
+506,maruti suzuki wagon,maruti,2016,225000.0,35500.0,diesel
+507,maruti suzuki alto,maruti,2010,99000.0,22134.0,petrol
+508,renault kwid rxt,renault,2019,370000.0,1000.0,petrol
+509,tata nano lx,tata,2010,52000.0,9000.0,petrol
+510,jaguar xe xe,jaguar,2016,2800000.0,8500.0,petrol
+511,hyundai xcent s,hyundai,2015,404688.5344224037,35000.0,petrol
+512,hyundai eon magna,hyundai,2014,190000.0,35000.0,petrol
+513,honda city 1.5,honda,2014,499000.0,22000.0,petrol
+514,hindustan motors ambassador,hindustan,2002,90000.0,25000.0,diesel
+515,maruti suzuki ritz,maruti,2010,149000.0,40000.0,petrol
+516,hyundai grand i10,hyundai,2017,400000.0,20000.0,petrol
+517,hyundai eon d,hyundai,2016,120000.0,87000.0,petrol
+518,maruti suzuki swift,maruti,2015,250000.0,55000.0,petrol
+519,maruti suzuki wagon,maruti,2017,375000.0,23000.0,petrol
+520,honda amaze 1.2,honda,2014,381000.0,6000.0,petrol
+521,maruti suzuki estilo,maruti,2013,180000.0,65000.0,petrol
+522,maruti suzuki vitara,maruti,2016,580000.0,25000.0,diesel
+523,maruti suzuki eeco,maruti,2015,278000.0,39000.0,petrol
+524,toyota innova 2.0,toyota,2009,404688.5344224037,15574.0,diesel
+525,hyundai creta 1.6,hyundai,2016,1000000.0,8000.0,petrol
+526,mahindra scorpio vlx,mahindra,2013,690000.0,75000.0,diesel
+527,maruti suzuki ertiga,maruti,2012,480000.0,51000.0,diesel
+528,mitsubishi lancer 1.8,mitsubishi,2006,85000.0,50000.0,petrol
+529,maruti suzuki maruti,maruti,2001,40000.0,75000.0,petrol
+530,maruti suzuki alto,maruti,2015,90000.0,55800.0,petrol
+531,hyundai grand i10,hyundai,2015,340000.0,53000.0,petrol
+532,hyundai eon d,hyundai,2018,260000.0,25000.0,petrol
+533,ford fiesta sxi,ford,2009,250000.0,56400.0,petrol
+534,maruti suzuki ritz,maruti,2010,180000.0,72160.0,diesel
+535,hyundai verna fluidic,hyundai,2012,350000.0,10000.0,diesel
+536,maruti suzuki wagon,maruti,2006,90001.0,48000.0,petrol
+537,maruti suzuki estilo,maruti,2007,115000.0,36000.0,petrol
+538,audi a6 2.0,audi,2012,1599000.0,11500.0,diesel
+539,maruti suzuki wagon,maruti,2003,130000.0,133000.0,petrol
+540,maruti suzuki wagon,maruti,2009,159000.0,27000.0,petrol
+541,maruti suzuki wagon,maruti,2009,160000.0,35000.0,petrol
+542,maruti suzuki alto,maruti,2010,110000.0,55000.0,petrol
+543,maruti suzuki baleno,maruti,2016,425000.0,40000.0,petrol
+544,hyundai verna 1.6,hyundai,2019,900000.0,2000.0,petrol
+545,maruti suzuki swift,maruti,2009,150000.0,45000.0,petrol
+546,hyundai getz prime,hyundai,2009,110000.0,20000.0,petrol
+547,hyundai santro,hyundai,2000,51999.0,88000.0,petrol
+548,hyundai getz prime,hyundai,2009,115000.0,20000.0,petrol
+549,chevrolet beat ps,chevrolet,2012,215000.0,65422.0,diesel
+550,ford ecosport trend,ford,2017,580000.0,10000.0,petrol
+551,maruti suzuki dzire,maruti,2013,380000.0,35000.0,petrol
+552,hyundai fluidic verna,hyundai,2013,350000.0,117000.0,diesel
+553,tata indica v2,tata,2005,35000.0,150000.0,diesel
+554,bmw x1 xdrive20d,bmw,2011,1150000.0,72000.0,diesel
+555,hyundai i20 asta,hyundai,2010,300000.0,10750.0,petrol
+556,honda city 1.5,honda,2009,269000.0,55000.0,petrol
+557,tata nano,tata,2013,60000.0,6800.0,petrol
+558,chevrolet cruze ltz,chevrolet,2014,400000.0,41000.0,diesel
+559,hyundai verna fluidic,hyundai,2015,430000.0,73000.0,diesel
+560,hyun,hyundai,2015,404688.5344224037,46010.55011933174,petrol
+561,maruti suzuki swift,maruti,2011,140000.0,65000.0,diesel
+562,mahindra xuv500 w6,mahindra,2014,404688.5344224035,45000.0,diesel
+563,mahindra xuv500 w10,mahindra,2018,1299000.0,40000.0,diesel
+564,maruti suzuki alto,maruti,2014,199000.0,37000.0,petrol
+565,hyundai accent gle,hyundai,2006,90000.0,55000.0,petrol
+566,force motors one,force,2013,550000.0,140000.0,diesel
+567,datsun go plus,datsun,2016,404688.5344224037,5.0,petrol
+568,maruti suzuki alto,maruti,2019,265000.0,9800.0,petrol
+569,chevrolet spark 1.0,chevrolet,2011,100000.0,27000.0,petrol
+570,hyundai i10,hyundai,2009,215000.0,27000.0,petrol
+571,toyota etios liva,toyota,2012,380000.0,20000.0,diesel
+572,renault duster 85ps,renault,2013,401919.0,57923.0,diesel
+573,chevrolet enjoy,chevrolet,2014,490000.0,30201.0,diesel
+574,maruti suzuki alto,maruti,2017,280000.0,6200.0,petrol
+575,bmw 5 series,bmw,2009,650000.0,37518.0,petrol
+576,toyota etios liva,toyota,2014,160000.0,24652.0,petrol
+577,mahindra jeep mm,mahindra,2004,424000.0,383.0,diesel
+578,chevrolet beat ls,chevrolet,2016,225000.0,95000.0,diesel
+579,chevrolet cruze ltz,chevrolet,2011,350000.0,35000.0,diesel
+580,jeep wrangler unlimited,jeep,2015,950000.0,3528.0,diesel
+581,maruti suzuki ertiga,maruti,2013,485000.0,52500.0,diesel
+582,hyundai verna vgt,hyundai,2010,205000.0,47900.0,diesel
+583,maruti suzuki omni,maruti,2012,160000.0,14000.0,petrol
+584,maruti suzuki celerio,maruti,2018,310000.0,37000.0,petrol
+585,tata zest quadrajet,tata,2017,180000.0,90000.0,diesel
+586,mahindra xuv500 w6,mahindra,2013,549900.0,52800.0,diesel
+587,tata indigo cs,tata,2016,150000.0,104000.0,diesel
+588,hyundai i10 era,hyundai,2011,175000.0,30000.0,petrol
+589,tata indigo ecs,tata,2014,95000.0,46010.5501193318,diesel
+590,tata indigo lx,tata,2016,230000.0,104000.0,diesel
+591,tata indigo ecs,tata,2016,230000.0,104000.0,diesel
+592,tata indigo marina,tata,2004,180000.0,70000.0,diesel
+593,commercial chevrolet sail,commercial,2015,225000.0,46010.55011933174,petrol
+594,hyundai xcent sx,hyundai,2015,400000.0,43000.0,diesel
+595,hyundai eon magna,hyundai,2013,185000.0,23000.0,petrol
+596,renault duster 85,renault,2015,385000.0,51000.0,diesel
+597,maruti suzuki alto,maruti,2009,90000.0,62000.0,petrol
+598,tata nano lx,tata,2010,32000.0,48008.0,petrol
+599,commercial car ta,commercial,2015,371500.0,46010.55011933174,petrol
+600,renault duster 110,renault,2013,435000.0,39000.0,diesel
+601,maruti suzuki wagon,maruti,2010,225000.0,40000.0,petrol
+602,maruti suzuki swift,maruti,2006,189700.0,48247.0,petrol
+603,maruti suzuki ertiga,maruti,2012,389700.0,39000.0,diesel
+604,maruti suzuki swift,maruti,2014,365000.0,23000.0,petrol
+605,maruti suzuki alto,maruti,2017,360000.0,9400.0,petrol
+606,hyundai i20 magna,hyundai,2010,210000.0,50000.0,petrol
+607,hyundai i10 magna,hyundai,2009,170000.0,75000.0,petrol
+608,tata indica,tata,2015,130000.0,46010.55011933174,petrol
+609,tata zest xe,tata,2017,380000.0,70000.0,diesel
+610,mahindra xylo e8,mahindra,2009,295000.0,64000.0,diesel
+611,toyota corolla altis,toyota,2010,185000.0,55000.0,petrol
+612,tata manza aqua,tata,2014,160000.0,46010.5501193318,diesel
+613,mahindra kuv100 k8,mahindra,2018,404688.5344224037,7500.0,diesel
+614,used bt new,used,2015,255000.0,46010.55011933174,petrol
+615,renault kwid 1.0,renault,2018,290000.0,2137.0,petrol
+616,sale tata,sale,2015,100000.0,46010.55011933174,petrol
+617,tata venture ex,tata,2013,100000.0,30000.0,diesel
+618,maruti suzuki swift,maruti,2014,315000.0,44000.0,petrol
+619,maruti suzuki alto,maruti,2002,404688.5344224037,56000.0,petrol
+620,skoda octavia classic,skoda,2006,114990.0,65000.0,diesel
+621,maruti suzuki omni,maruti,2012,120000.0,160000.0,lpg
+622,chevrolet beat diesel,chevrolet,2011,125000.0,56000.0,diesel
+623,tata sumo gold,tata,2012,210000.0,75000.0,diesel
+624,tata indigo 2017,tata,2015,170000.0,46010.55011933174,petrol
+625,hyundai verna 1.6,hyundai,2018,855000.0,42000.0,diesel
+626,tata sumo gold,tata,2012,210000.0,75000.0,diesel
+627,mahindra scorpio 2.6,mahindra,2007,260000.0,56000.0,diesel
+628,maruti suzuki zen,maruti,2002,95000.0,10544.0,petrol
+629,maruti suzuki swift,maruti,2011,255000.0,64000.0,petrol
+630,mahindra scorpio slx,mahindra,2008,300000.0,70000.0,diesel
+631,hyundai grand i10,hyundai,2014,340000.0,25000.0,petrol
+632,hyundai elite i20,hyundai,2017,550000.0,15000.0,petrol
+633,ford ikon 1.6,ford,2003,60000.0,50000.0,petrol
+634,hyundai elite i20,hyundai,2015,404688.5344224037,49500.0,petrol
+635,tata indigo,tata,2015,150000.0,46010.55011933174,petrol
+636,toyota innova 2.5,toyota,2011,750000.0,147000.0,diesel
+637,nissan sunny xl,nissan,2011,230000.0,52000.0,petrol
+638,chevrolet beat lt,chevrolet,2012,130000.0,90001.0,diesel
+639,maruti suzuki alto,maruti,2017,270000.0,21000.0,petrol
+640,maruti suzuki swift,maruti,2012,280000.0,48006.0,diesel
+641,maruti suzuki swift,maruti,2012,280000.0,48006.0,diesel
+642,maruti suzuki swift,maruti,2012,280000.0,48006.0,diesel
+643,very good condition,very,2015,200000.0,46010.55011933174,petrol
+644,toyota innova 2.0,toyota,2012,600000.0,80000.0,diesel
+645,sale hyundai xcent,sale,2015,404688.5344224037,46010.55011933174,petrol
+646,maruti suzuki swift,maruti,2010,190000.0,74000.0,diesel
+647,hyundai elite i20,hyundai,2015,500000.0,22000.0,petrol
+648,mahindra xuv500 w10,mahindra,2016,1065000.0,41000.0,diesel
+649,volkswagen polo trendline,volkswagen,2015,350000.0,25000.0,diesel
+650,toyota etios liva,toyota,2012,350000.0,85000.0,diesel
+651,mahindra tuv300 t4,mahindra,2016,540000.0,29500.0,diesel
+652,hyundai elite i20,hyundai,2015,470000.0,30000.0,petrol
+653,hyundai santro xing,hyundai,2014,179000.0,57000.0,petrol
+654,maruti suzuki zen,maruti,2003,48000.0,60000.0,petrol
+655,maruti suzuki ciaz,maruti,2016,650000.0,50000.0,petrol
+656,hyundai eon era,hyundai,2013,190000.0,39700.0,petrol
+657,hyundai elantra 1.8,hyundai,2012,500000.0,65000.0,petrol
+658,maruti suzuki swift,maruti,2010,270000.0,67000.0,diesel
+659,maruti suzuki zen,maruti,2008,125000.0,46000.0,petrol
+660,hyundai eon era,hyundai,2012,188000.0,38000.0,petrol
+661,hyundai grand i10,hyundai,2016,380000.0,27000.0,petrol
+662,hyundai verna fluidic,hyundai,2011,365000.0,43000.0,diesel
+663,ford ecosport trend,ford,2014,465000.0,47000.0,petrol
+664,hyundai i20 magna,hyundai,2011,240000.0,42000.0,petrol
+665,chevrolet beat diesel,chevrolet,2016,179999.0,19336.0,diesel
+666,tata indica ev2,tata,2015,140000.0,60105.0,diesel
+667,jaguar xf 2.2,jaguar,2013,2190000.0,29000.0,diesel
+668,audi q5 2.0,audi,2014,2390000.0,34000.0,diesel
+669,bmw 3 series,bmw,2011,1075000.0,35000.0,diesel
+670,maruti suzuki swift,maruti,2015,475000.0,22000.0,petrol
+671,bmw x1 sdrive20d,bmw,2012,1025000.0,41000.0,diesel
+672,maruti suzuki s,maruti,2016,615000.0,21000.0,diesel
+673,maruti suzuki ertiga,maruti,2013,475000.0,48000.0,diesel
+674,maruti suzuki alto,maruti,2016,270000.0,38000.0,petrol
+675,honda city sv,honda,2014,475000.0,34000.0,diesel
+676,volkswagen vento comfortline,volkswagen,2011,240000.0,45933.0,petrol
+677,honda city 1.5,honda,2005,120000.0,68000.0,petrol
+678,audi a4 2.0,audi,2016,1900000.0,44000.0,diesel
+679,mahindra kuv100,mahindra,2017,360000.0,35000.0,diesel
+680,tata zest xe,tata,2018,450000.0,102563.0,diesel
+681,mahindra xuv500 w8,mahindra,2015,900000.0,28600.0,diesel
+682,maruti suzuki swift,maruti,2017,650000.0,41800.0,diesel
+683,tata sumo gold,tata,2014,275000.0,116000.0,diesel
+684,maruti suzuki swift,maruti,2009,210000.0,59000.0,petrol
+685,mahindra scorpio 2.6,mahindra,2004,175000.0,58000.0,diesel
+686,maruti suzuki omni,maruti,2009,85000.0,45000.0,petrol
+687,mitsubishi pajero sport,mitsubishi,2015,1490000.0,42590.0,diesel
+688,renault duster,renault,2014,800000.0,7400.0,diesel
+689,volkswagen jetta comfortline,volkswagen,2009,450000.0,54500.0,diesel
+690,maruti suzuki ertiga,maruti,2012,1000000.0,46010.5501193318,diesel
+691,audi a4 2.0,audi,2013,1510000.0,27000.0,diesel
+692,volvo s80 summum,volvo,2015,1850000.0,42000.0,diesel
+693,toyota corolla altis,toyota,2014,790000.0,29000.0,petrol
+694,mitsubishi pajero sport,mitsubishi,2015,1725000.0,37000.0,diesel
+695,chevrolet beat lt,chevrolet,2012,135000.0,36000.0,petrol
+696,bmw x1,bmw,2011,1000000.0,34000.0,diesel
+697,datsun redi go,datsun,2018,299999.0,7000.0,petrol
+698,mercedes benz c,mercedes,2009,1225000.0,76000.0,diesel
+699,mahindra scorpio slx,mahindra,2004,175000.0,60000.0,diesel
+700,volkswagen vento comfortline,volkswagen,2011,200000.0,95000.0,diesel
+701,tata indigo cs,tata,2017,270000.0,50000.0,diesel
+702,ford figo petrol,ford,2019,525000.0,0.0,petrol
+703,honda city zx,honda,2006,180000.0,50000.0,petrol
+704,maruti suzuki wagon,maruti,2008,140000.0,68000.0,petrol
+705,ford ecosport trend,ford,2014,400000.0,16000.0,petrol
+706,maruti suzuki swift,maruti,2016,499000.0,51000.0,diesel
+707,maruti suzuki omni,maruti,2009,85000.0,56000.0,petrol
+708,maruti suzuki zen,maruti,2004,70000.0,100000.0,petrol
+709,renault duster rxl,renault,2015,550000.0,36000.0,petrol
+710,maruti suzuki swift,maruti,2014,370000.0,11523.0,petrol
+711,maruti suzuki baleno,maruti,2018,690000.0,1000.0,petrol
+712,honda wr v,honda,2009,250000.0,60000.0,petrol
+713,tata indigo cs,tata,2016,110000.0,85000.0,diesel
+714,renault duster 110,renault,2013,490000.0,38600.0,diesel
+715,mahindra scorpio lx,mahindra,2009,320000.0,95500.0,diesel
+716,maruti suzuki zen,maruti,2004,68000.0,56000.0,petrol
+717,maruti suzuki wagon,maruti,2014,130000.0,37458.0,petrol
+718,maruti suzuki sx4,maruti,2016,970000.0,85960.0,diesel
+719,audi a3 cabriolet,audi,2015,3100000.0,12516.0,petrol
+720,hyundai eon d,hyundai,2018,280000.0,35000.0,petrol
+721,maruti suzuki zen,maruti,2009,125000.0,0.0,petrol
+722,mahindra scorpio slx,mahindra,2008,285000.0,80000.0,diesel
+723,i want to,i,2015,475000.0,46010.55011933174,petrol
+724,hyundai santro ae,hyundai,2011,165000.0,45000.0,petrol
+725,i want sale,i,2015,320000.0,46010.55011933174,petrol
+726,maruti suzuki swift,maruti,2009,250000.0,51000.0,diesel
+727,mahindra scorpio s4,mahindra,2015,865000.0,30000.0,diesel
+728,tata zest 6,tata,2015,370000.0,46010.55011933174,petrol
+729,mahindra xylo d2,mahindra,2011,390000.0,48000.0,diesel
+730,hyundai santro,hyundai,2003,60000.0,51000.0,petrol
+731,chevrolet beat lt,chevrolet,2015,215000.0,90000.0,diesel
+732,maruti suzuki swift,maruti,2015,475000.0,43000.0,diesel
+733,mahindra xuv500 w8,mahindra,2015,899000.0,53000.0,diesel
+734,toyota fortuner 3.0,toyota,2013,1499000.0,97000.0,diesel
+735,maruti suzuki alto,maruti,2013,240000.0,20000.0,petrol
+736,hyundai getz gle,hyundai,2007,99000.0,55000.0,petrol
+737,maruti suzuki swift,maruti,2014,260000.0,120000.0,diesel
+738,hyundai creta 1.6,hyundai,2019,1200000.0,0.0,petrol
+739,hyundai santro xing,hyundai,2007,115000.0,46000.0,petrol
+740,hyundai santro xing,hyundai,2009,88000.0,43200.0,petrol
+741,mahindra xylo d2,mahindra,2011,390000.0,56000.0,diesel
+742,hyundai santro xing,hyundai,2007,135000.0,42000.0,petrol
+743,tata indica v2,tata,2009,90000.0,30600.0,diesel
+744,hyundai i10 sportz,hyundai,2011,220000.0,38000.0,petrol
+745,hyundai grand i10,hyundai,2017,424999.0,2550.0,petrol
+746,hyundai santro xing,hyundai,2007,135000.0,47000.0,petrol
+747,honda city 1.5,honda,2005,95000.0,41000.0,petrol
+748,nissan micra xl,nissan,2017,430000.0,62500.0,diesel
+749,honda city 1.5,honda,2005,115000.0,68000.0,petrol
+750,maruti suzuki alto,maruti,2015,215000.0,50000.0,petrol
+751,maruti suzuki wagon,maruti,2004,53000.0,69000.0,petrol
+752,maruti suzuki ertiga,maruti,2012,500000.0,48000.0,diesel
+753,tata indica ev2,tata,2012,85000.0,55000.0,diesel
+754,maruti suzuki omni,maruti,2013,165000.0,25000.0,petrol
+755,hyundai eon era,hyundai,2014,200000.0,28400.0,petrol
+756,hyundai eon,hyundai,2014,200000.0,28000.0,petrol
+757,maruti suzuki swift,maruti,2015,425000.0,42000.0,diesel
+758,maruti suzuki ertiga,maruti,2015,650000.0,46010.55011933174,petrol
+759,hyundai verna 1.6,hyundai,2012,600000.0,29000.0,diesel
+760,chevrolet tavera ls,chevrolet,2005,130000.0,68485.0,diesel
+761,tata tiago revotron,tata,2018,430000.0,3500.0,petrol
+762,tata tiago revotorq,tata,2019,568500.0,0.0,petrol
+763,tata nexon,tata,2019,404688.5344224037,0.0,petrol
+764,tata,tata,2015,404688.5344224037,46010.55011933174,petrol
+765,maruti suzuki zen,maruti,2006,71000.0,32000.0,petrol
+766,mahindra kuv100 k8,mahindra,2018,560000.0,8000.0,diesel
+767,ford ecosport titanium,ford,2014,590000.0,34000.0,diesel
+768,hindustan motors ambassador,hindustan,1995,750000.0,37000.0,petrol
+769,ford fusion 1.4,ford,2007,125000.0,85455.0,diesel
+770,hyundai santro xing,hyundai,2007,135000.0,46000.0,petrol
+771,hyundai santro,hyundai,2002,60000.0,47000.0,petrol
+772,fiat linea emotion,fiat,2009,120000.0,64000.0,petrol
+773,ford ikon 1.3,ford,2008,95000.0,46000.0,petrol
+774,maruti suzuki omni,maruti,2017,240000.0,8000.0,petrol
+775,tata indica v2,tata,2012,115000.0,64000.0,diesel
+776,mahindra scorpio s4,mahindra,2015,795000.0,63000.0,diesel
+777,hyundai santro xing,hyundai,2007,55000.0,65000.0,petrol
+778,mahindra xylo d2,mahindra,2009,300000.0,62000.0,diesel
+779,hyundai grand i10,hyundai,2014,320000.0,41000.0,petrol
+780,maruti suzuki alto,maruti,2015,265000.0,14000.0,petrol
+781,toyota corolla,toyota,2006,160000.0,40000.0,petrol
+782,hyundai eon magna,hyundai,2017,300000.0,1600.0,petrol
+783,tata sumo grande,tata,2010,130000.0,90000.0,diesel
+784,maruti suzuki swift,maruti,2011,250000.0,58000.0,diesel
+785,volkswagen polo highline1.2l,volkswagen,2013,380000.0,27000.0,petrol
+786,maruti suzuki alto,maruti,2003,42000.0,60000.0,petrol
+787,tata tiago revotron,tata,2017,400000.0,31000.0,petrol
+788,maruti suzuki swift,maruti,2009,120000.0,90000.0,diesel
+789,maruti suzuki swift,maruti,2009,120000.0,90000.0,diesel
+790,tata indigo ecs,tata,2016,130000.0,150000.0,diesel
+791,chevrolet beat ls,chevrolet,2014,189000.0,31000.0,diesel
+792,2012 tata sumo,2012,2015,250000.0,46010.55011933174,petrol
+793,mahindra xylo e8,mahindra,2011,365000.0,43000.0,diesel
+794,hyundai eon d,hyundai,2013,170000.0,20000.0,petrol
+795,well mentained tata,well,2015,380000.0,46010.55011933174,petrol
+796,all paper updated,all,2015,145000.0,46010.55011933174,petrol
+797,maruti ertiga showroom,maruti,2015,480000.0,46010.55011933174,petrol
+798,7 seater mahindra,7,2015,404688.5344224037,46010.55011933174,petrol
+799,9 seater mahindra,9,2015,404688.5344224037,46010.55011933174,petrol
+800,scratch less tata,scratch,2015,140000.0,46010.55011933174,petrol
+801,maruti suzuki swift,maruti,2015,360000.0,46010.55011933174,petrol
+802,commercial chevrolet beat,commercial,2015,180000.0,46010.55011933174,petrol
+803,urgent sell my,urgent,2015,350000.0,46010.55011933174,petrol
+804,tata sumo gold,tata,2013,215000.0,100000.0,petrol
+805,sell my car,sell,2015,300000.0,46010.55011933174,petrol
+806,maruti suzuki swift,maruti,2015,310000.0,46010.55011933174,petrol
+807,hyunda,hyundai,2015,404688.5344224037,46010.55011933174,petrol
+808,commercial maruti suzuki,commercial,2015,404688.5344224037,46010.55011933174,petrol
+809,urgent sale ta,urgent,2015,220000.0,46010.55011933174,petrol
+810,maruti suzuki alto,maruti,2015,95000.0,46010.55011933174,petrol
+811,tata,tata,2015,404688.5344224037,46010.55011933174,petrol
+812,tata indi,tata,2015,110000.0,46010.55011933174,petrol
+813,tata nano,tata,2013,60000.0,7000.0,petrol
+814,hyundai elite i20,hyundai,2017,599999.0,31000.0,petrol
+815,hyundai i10 magna,hyundai,2009,400000.0,33000.0,petrol
+816,hyundai creta,hyundai,2016,900000.0,60000.0,diesel
+817,volkswagen polo,volkswagen,2013,299999.0,48000.0,diesel
+818,maruti suzuki dzire,maruti,2014,374999.0,33000.0,petrol
+819,tata bolt xm,tata,2015,600000.0,15000.0,petrol
+820,maruti suzuki alto,maruti,2005,70000.0,47000.0,petrol
+821,maruti suzuki alto,maruti,2005,100000.0,40000.0,petrol
+822,hyundai venue,hyundai,2019,404688.5344224037,7000.0,diesel
+823,maruti suzuki ritz,maruti,2010,150000.0,38000.0,diesel
+824,maruti suzuki alto,maruti,2017,225000.0,12500.0,petrol
+825,maruti suzuki dzire,maruti,2009,210000.0,42000.0,petrol
+826,renault lodgy,renault,2016,404688.5344224037,20000.0,diesel
+827,hyundai i20 asta,hyundai,2014,425000.0,31000.0,petrol
+828,maruti suzuki swift,maruti,2008,162000.0,60000.0,diesel
+829,tata indica v2,tata,2005,60000.0,80000.0,diesel
+830,mahindra scorpio vlx,mahindra,2014,650000.0,77000.0,diesel
+831,toyota innova 2.5,toyota,2012,750000.0,75000.0,diesel
+832,mahindra xylo e8,mahindra,2010,375000.0,40000.0,diesel
+833,hyundai i20 magna,hyundai,2011,230000.0,47000.0,petrol
+834,maruti suzuki omni,maruti,2000,35999.0,60000.0,petrol
+835,mahindra kuv100,mahindra,2016,380000.0,26500.0,petrol
+836,mahindra kuv100 k8,mahindra,2019,560000.0,2875.0,petrol
+837,datsun go plus,datsun,2016,285000.0,13900.0,petrol
+838,ford endeavor 4x4,ford,2019,2900000.0,9000.0,diesel
+839,tata indica v2,tata,2005,39999.0,80000.0,diesel
+840,hyundai santro xing,hyundai,2006,85000.0,60000.0,petrol
+841,maruti suzuki wagon,maruti,2016,395000.0,20000.0,petrol
+842,maruti suzuki swift,maruti,2008,175000.0,58000.0,diesel
+843,maruti suzuki alto,maruti,2019,400000.0,1500.0,petrol
+844,toyota innova 2.5,toyota,2011,750000.0,75000.0,diesel
+845,any type car,any,2015,170000.0,46010.55011933174,petrol
+846,maruti suzuki alto,maruti,2016,250000.0,2450.0,petrol
+847,maruti suzuki alto,maruti,2019,425000.0,1625.0,petrol
+848,maruti suzuki alto,maruti,2019,404688.5344224037,1500.0,petrol
+849,volkswagen polo highline1.2l,volkswagen,2017,525000.0,45000.0,petrol
+850,mahindra logan,mahindra,2009,130000.0,65000.0,diesel
+851,maruti suzuki 800,maruti,2000,30000.0,33400.0,petrol
+852,mahindra scorpio,mahindra,2011,475000.0,60123.0,diesel
+853,chevrolet sail 1.2,chevrolet,2013,300000.0,28000.0,petrol
+854,volkswagen vento highline,volkswagen,2015,404688.5344224037,38900.0,diesel
+855,hyundai santro ae,hyundai,2003,60000.0,70000.0,petrol
+856,maruti suzuki wagon,maruti,2006,100000.0,7000.0,petrol
+857,hyundai eon,hyundai,2018,260000.0,25000.0,petrol
+858,tata manza,tata,2015,100000.0,100000.0,diesel
+859,toyota innova 2.0,toyota,2019,404688.5344224037,4000.0,petrol
+860,toyota etios g,toyota,2013,265000.0,42000.0,petrol
+861,hyundai getz prime,hyundai,2009,115000.0,20000.0,petrol
+862,toyota qualis,toyota,2003,180000.0,100000.0,diesel
+863,hyundai santro xing,hyundai,2004,45000.0,137495.0,petrol
+864,tata indica ev2,tata,2016,50500.0,91200.0,diesel
+865,honda city 1.5,honda,2009,270000.0,55000.0,petrol
+866,tata zest xe,tata,2017,290000.0,120000.0,diesel
+867,mahindra quanto c4,mahindra,2013,325000.0,63000.0,diesel
+868,tata indigo ecs,tata,2016,160000.0,104000.0,diesel
+869,maruti suzuki swift,maruti,2016,350000.0,146000.0,diesel
+870,hyundai elite i20,hyundai,2011,290000.0,40000.0,petrol
+871,hyundai i20 select,hyundai,2011,290000.0,40000.0,petrol
+872,chevrolet tavera neo,chevrolet,2007,465000.0,100800.0,diesel
+873,maruti suzuki dzire,maruti,2016,325000.0,150000.0,diesel
+874,hyundai elite i20,hyundai,2018,510000.0,2100.0,petrol
+875,honda city vx,honda,2016,860000.0,95000.0,petrol
+876,maruti suzuki dzire,maruti,2016,450000.0,2500.0,diesel
+877,hyundai getz,hyundai,2006,125000.0,80000.0,petrol
+878,mercedes benz c,mercedes,2006,500001.0,15000.0,petrol
+879,maruti suzuki alto,maruti,2005,95000.0,65000.0,petrol
+880,maruti suzuki swift,maruti,2009,250000.0,51000.0,diesel
+881,skoda fabia,skoda,2009,110000.0,45000.0,petrol
+882,maruti suzuki alto,maruti,2015,404688.5344224037,70000.0,petrol
+883,maruti suzuki ritz,maruti,2011,270000.0,50000.0,petrol
+884,tata zest 2017,tata,2015,450000.0,46010.55011933174,petrol
+885,tata indica v2,tata,2009,110000.0,30000.0,diesel
+886,toyota corolla altis,toyota,2009,300000.0,132000.0,petrol
+887,ta,tara,2015,310000.0,46010.55011933174,petrol
+888,tata zest xm,tata,2018,260000.0,27000.0,diesel
+889,mahindra quanto c8,mahindra,2013,390000.0,40000.0,diesel
+890,honda amaze 1.2,honda,2014,180000.0,46010.55011933174,petrol
+891,chevrolet sail 1.2,chevrolet,2014,160000.0,46010.55011933174,petrol
